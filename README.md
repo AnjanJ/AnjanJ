@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjanj987" target="blank"><img src="https://img.shields.io/twitter/follow/anjanj987?logo=twitter&style=for-the-badge" alt="anjanj987" /></a> </p>
 # 💫 About Me: 7+ years of experience in full stack development, I bring a wealth of technical expertise, a passion for innovation, and a strong commitment to delivering excellence in every project I undertake. I look forward to utilizing my skills and experience to contribute to the success of future endeavors and make a meaningful impact in the world of software engineering.<br><br>
-🔭 I’m currently working on: <i>finding my next job.</i><br> 👯 I’m looking to collaborate on: <i>anything that piques my Interest.</i><br>🤝 I’m looking for help with:<i> landing a new role.</i><br>🌱 I’m currently learning: <i>Elixir & Pheonix.</i><br>
+🔭 I’m currently working on: <i>Building a SAAS app.</i><br> 👯 I’m looking to collaborate on: <i>anything that piques my Interest.</i><br>🤝 I’m looking for help with:<i> " "  </i><br>🌱 I’m currently learning: <i>Elixir & Pheonix.</i><br>
 
 
 ## 🌐 Socials:
