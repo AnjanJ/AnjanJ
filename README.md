@@ -1,36 +1,62 @@
-<h1 align="center">Hi 👋, I'm Anjan</h1>
-<h3 align="center">A passionate full-stack software developer from India</h3>
+# Hey, I'm Anjan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanj&label=Profile%20views&color=0e75b6&style=flat" alt="anjanj" /> </p>
+Full-stack developer from India. 9+ years building web applications with Ruby on Rails, React, and TypeScript. I build open source tools that solve real problems.
 
-<p align="left"> <a href="https://twitter.com/anjanj987" target="blank"><img src="https://img.shields.io/twitter/follow/anjanj987?logo=twitter&style=for-the-badge" alt="anjanj987" /></a> </p>
-💫 About Me: 8+ years of experience in full stack development, I bring a wealth of technical expertise, a passion for innovation, and a strong commitment to delivering excellence in every project I undertake. I look forward to utilizing my skills and experience to contribute to the success of future endeavors and make a meaningful impact in the world of software engineering.<br><br>
-🔭 I’m currently working on: <i>Building a SAAS app.</i><br> 👯 I’m looking to collaborate on: <i>anything that piques my Interest.</i><br>🤝 I’m looking for help with:<i> " "  </i><br>🌱 I’m currently learning: <i>Elixir & Pheonix.</i><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matrixcoder) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@anjanj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnjanJ987) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnjanJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnjanJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnjanJ&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnjanJ&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/AnjanJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/matrixcoder)
+[![Website](https://img.shields.io/badge/anjan.dev-000?logo=safari&logoColor=white)](https://anjan.dev)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnjanJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Open Source
+
+### 🔴 [RED — Rails Error Dashboard](https://github.com/AnjanJ/rails_error_dashboard)
+
+Self-hosted error tracking for Rails — free, forever. Replaces Sentry/Honeybadger at $0/month.
+
+[![Gem Version](https://badge.fury.io/rb/rails_error_dashboard.svg)](https://rubygems.org/gems/rails_error_dashboard) [![Downloads](https://img.shields.io/gem/dt/rails_error_dashboard)](https://rubygems.org/gems/rails_error_dashboard)
+
+- 12K+ downloads · 70+ stars · 2,900+ tests · 5 community contributors
+- Local variable capture, swallowed exception detection, Copy for LLM
+- GitHub/GitLab/Codeberg issue tracking with lifecycle sync
+- System health snapshots, breadcrumbs, ActionCable + ActiveStorage monitoring
+- [Live Demo](https://rails-error-dashboard.anjan.dev) · [Docs](https://anjanj.github.io/rails_error_dashboard/)
+
+### 🚀 [ShipKit](https://github.com/AnjanJ/shipkit)
+
+Ship better code with Claude Code. 15 skills, 2 agents, knowledge bases, and path-scoped rules — works instantly.
+
+### 🧠 [BodhiKit](https://github.com/AnjanJ/bodhikit)
+
+Research-backed interactive coding tutor for Claude Code. Built on proven learning science. Teaches you to write code, not writes it for you.
+
+---
+
+## Tech
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjanJ&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanJ&theme=dark&hide_border=true" height="160">
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/AnjanJ">
+    <img src="https://img.shields.io/badge/Sponsor_my_open_source_work-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://anjan.dev">anjan.dev</a>
+</p>
+
