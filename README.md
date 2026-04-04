@@ -18,7 +18,7 @@ I kept hitting free-tier limits on error monitoring SaaS, and realized a gem liv
 
 [![Gem Version](https://badge.fury.io/rb/rails_error_dashboard.svg)](https://rubygems.org/gems/rails_error_dashboard) [![Downloads](https://img.shields.io/gem/dt/rails_error_dashboard)](https://rubygems.org/gems/rails_error_dashboard)
 
-12K+ downloads, 3,000+ tests, 59 releases, 5 community contributors. [Live Demo](https://rails-error-dashboard.anjan.dev) · [Docs](https://anjanj.github.io/rails_error_dashboard/)
+13K+ downloads, 3,000+ tests, 59 releases, 5 community contributors. [Live Demo](https://rails-error-dashboard.anjan.dev) · [Docs](https://anjanj.github.io/rails_error_dashboard/)
 
 ### [BodhiKit](https://github.com/AnjanJ/bodhikit)
 
